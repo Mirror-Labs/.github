@@ -4,7 +4,7 @@ We are bringing the local-first software revolution to the web:
 
 1. No spinners: your data at your fingertips
 2. Seamless syncing between devices; It just works!
-3. The network is optional
+3. Never down, the network is optional
 4. Security and privacy by default
 5. You retain ultimate ownership and control
 
