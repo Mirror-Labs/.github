@@ -14,3 +14,5 @@ their data magically always being up-to-date. Today, this is most easily achieve
 Sacrificing our users' privacy, ownership, and access to _their_ data.
 
 We are building MirrorDB: an application-centric p2p database.
+
+/MirrorLabs Team
