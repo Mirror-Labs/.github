@@ -13,4 +13,4 @@ Users have come to expect to be able to seamlessly transition between their devi
 their data magically always being up-to-date. Today, this is most easily achieved by server-client-based solutions such as Firebase where Google ultimately retains control.
 Sacrificing our users' privacy, ownership, and access to _their_ data.
 
-We are building MirrorDB: an application-centric p2p database.
+We are building [MirrorDB: an application-centric p2p database](https://github.com/Mirror-Labs/MirrorDB).
